@@ -136,11 +136,11 @@
 
 
 
-// let i = 1 ;
-// let a = 5 ;
+let i = 1 ;
+let a = 5 ;
 
-// do {
-//     console.log(a + " x " + i + " = " + a * i );
-//     i++
-// } while (i <= 10 );
+do {
+    console.log(a + " x " + i + " = " + a * i );
+    i++
+} while (i <= 10 );
 
