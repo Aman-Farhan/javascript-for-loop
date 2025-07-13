@@ -44,20 +44,20 @@
 // for loop :
 
 
-// let a = 5;
-// for(let i = 1 ; i <= 10; i++){
-//     console.log(a + " x " + i + " = " + a*i);
-// }
-
-
-
-let sum = 0;
+let a = 5;
 for(let i = 1 ; i <= 10; i++){
-    sum = sum + i 
-    console.log(i);  
-};
+    console.log(a + " x " + i + " = " + a*i);
+}
 
-console.log(sum);
+
+
+// let sum = 0;
+// for(let i = 1 ; i <= 10; i++){
+//     sum = sum + i 
+//     console.log(i);  
+// };
+
+// console.log(sum);
 
 
 
