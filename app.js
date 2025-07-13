@@ -93,22 +93,22 @@
 // console.log(sum)
 
 
-// let i = 1;
-// let a = prompt("enter number ")
-// while(i <= 10){
-//     console.log(a +" x "+ i + " = " + a*i );
-//     i++
-// }
+let i = 1;
+let a = prompt("enter number ")
+while(i <= 10){
+    console.log(a +" x "+ i + " = " + a*i );
+    i++
+}
 
 
 // do while loop :
 
 
-let i = 0 ;
-do {
-    console.log("i = "+ i );
-    i++
-} while (i <= 20)
+// let i = 0 ;
+// do {
+//     console.log("i = "+ i );
+//     i++
+// } while (i <= 20)
 
 
 // let i = 0;
