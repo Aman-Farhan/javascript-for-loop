@@ -111,28 +111,28 @@
 // } while (i <= 20)
 
 
-// let i = 0;
-// let sum = i;
-// let a = 5;
-
-// do {
-//     sum = sum + i
-//     console.log(a + " x " + i + " = " + a*i);
-//     console.log(sum);
-//     i++
-// } while (i <=20 );
-
-
-let a = +prompt("Enter a Table Number:");
-let b = 1
-let c = 1
+let i = 0;
+let sum = i;
+let a = 5;
 
 do {
-    c = c + b;
-    console.log(a + " x " + b + " = " + a*b);
-    b++
-} while (b <= 20);
-console.log(c);
+    sum = sum + i
+    console.log(a + " x " + i + " = " + a*i);
+    console.log(sum);
+    i++
+} while (i <=20 );
+
+
+// let a = +prompt("Enter a Table Number:");
+// let b = 1
+// let c = 1
+
+// do {
+//     c = c + b;
+//     console.log(a + " x " + b + " = " + a*b);
+//     b++
+// } while (b <= 20);
+// console.log(c);
 
 
 
