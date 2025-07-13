@@ -14,16 +14,16 @@
 // } 
 
 
-// let i = 1;
-// for( i = 1 ; i <= 5 ; i++ ) {
-//     console.log("aman");
-// }
-
-
-let i = 5 ;
-for (i = 1 ; 1 >= 10 ; i++){
-    console.log(i + " x " + i +"=" + i*i );
+let i = 1;
+for( i = 1 ; i <= 5 ; i++ ) {
+    console.log("aman");
 }
+
+
+// let i = 5 ;
+// for (i = 1 ; 1 >= 10 ; i++){
+//     console.log(i + " x " + i +"=" + i*i );
+// }
 
 
 
