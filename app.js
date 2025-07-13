@@ -123,24 +123,24 @@
 // } while (i <=20 );
 
 
-// let a = +prompt("Enter a Table Number:");
-// let b = 1
-// let c = 1
-
-// do {
-//     c = c + b;
-//     console.log(a + " x " + b + " = " + a*b);
-//     b++
-// } while (b <= 20);
-// console.log(c);
-
-
-
-let i = 1 ;
-let a = 5 ;
+let a = +prompt("Enter a Table Number:");
+let b = 1
+let c = 1
 
 do {
-    console.log(a + " x " + i + " = " + a * i );
-    i++
-} while (i <= 10 );
+    c = c + b;
+    console.log(a + " x " + b + " = " + a*b);
+    b++
+} while (b <= 20);
+console.log(c);
+
+
+
+// let i = 1 ;
+// let a = 5 ;
+
+// do {
+//     console.log(a + " x " + i + " = " + a * i );
+//     i++
+// } while (i <= 10 );
 
