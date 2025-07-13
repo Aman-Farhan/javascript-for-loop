@@ -51,24 +51,24 @@
 
 
 
-// let sum = 0;
-// for(let i = 1 ; i <= 10; i++){
-//     sum = sum + i 
-//     console.log(i);  
-// };
+let sum = 0;
+for(let i = 1 ; i <= 10; i++){
+    sum = sum + i 
+    console.log(i);  
+};
 
-// console.log(sum);
-
-
-
-let sum = +prompt("enter a num ")
-for(let i = 1 ; i <= 5 ; i++){
-    sum = sum + i;
-    document.write(sum + "<br>");
-    // document.write(sum + 5);
-}
 console.log(sum);
-console.log("5");
+
+
+
+// let sum = +prompt("enter a num ")
+// for(let i = 1 ; i <= 5 ; i++){
+//     sum = sum + i;
+//     document.write(sum + "<br>");
+//     // document.write(sum + 5);
+// }
+// console.log(sum);
+// console.log("5");
 
 
 // while loop :
