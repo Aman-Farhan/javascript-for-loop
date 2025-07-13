@@ -27,19 +27,19 @@
 
 
 
-// let sum = 0 ;
-// for(let i = 1 ; i <= 5; i++){
-//     sum = sum + i;
-// };
-// console.log("sum = " + sum );
+let sum = 0 ;
+for(let i = 1 ; i <= 5; i++){
+    sum = sum + i;
+};
+console.log("sum = " + sum );
 
-let a = 0
-for(let i = 1 ; i <= 10 ; i ++){
-    a  = a+i ;
-    console.log(i);
-}
-console.log("a = ", a);
-console.log("loop was endeed");
+// let a = 0
+// for(let i = 1 ; i <= 10 ; i ++){
+//     a  = a+i ;
+//     console.log(i);
+// }
+// console.log("a = ", a);
+// console.log("loop was endeed");
 
 
 // for loop :
