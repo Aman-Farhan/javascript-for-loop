@@ -83,22 +83,22 @@
 
 
 
-// let i = 1;
-// let sum = 1;
-// while (i <= 5){
-//     sum = sum + i ;
-//     console.log("i = " + i );
-//     i++
-// }
-// console.log(sum)
-
-
 let i = 1;
-let a = prompt("enter number ")
-while(i <= 10){
-    console.log(a +" x "+ i + " = " + a*i );
+let sum = 1;
+while (i <= 5){
+    sum = sum + i ;
+    console.log("i = " + i );
     i++
 }
+console.log(sum)
+
+
+// let i = 1;
+// let a = prompt("enter number ")
+// while(i <= 10){
+//     console.log(a +" x "+ i + " = " + a*i );
+//     i++
+// }
 
 
 // do while loop :
