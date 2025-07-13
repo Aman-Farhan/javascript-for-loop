@@ -61,25 +61,25 @@
 
 
 
-// let sum = +prompt("enter a num ")
-// for(let i = 1 ; i <= 5 ; i++){
-//     sum = sum + i;
-//     document.write(sum + "<br>");
-//     // document.write(sum + 5);
-// }
-// console.log(sum);
-// console.log("5");
+let sum = +prompt("enter a num ")
+for(let i = 1 ; i <= 5 ; i++){
+    sum = sum + i;
+    document.write(sum + "<br>");
+    // document.write(sum + 5);
+}
+console.log(sum);
+console.log("5");
 
 
 // while loop :
 
 
-let i = 1;
-let a = 5;
-while(i <= 10){
-    console.log(a +" x " + i + " = "+ a*i);
-    i++
-}
+// let i = 1;
+// let a = 5;
+// while(i <= 10){
+//     console.log(a +" x " + i + " = "+ a*i);
+//     i++
+// }
 
 
 
