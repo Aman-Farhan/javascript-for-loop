@@ -104,23 +104,23 @@
 // do while loop :
 
 
-// let i = 0 ;
-// do {
-//     console.log("i = "+ i );
-//     i++
-// } while (i <= 20)
-
-
-let i = 0;
-let sum = i;
-let a = 5;
-
+let i = 0 ;
 do {
-    sum = sum + i
-    console.log(a + " x " + i + " = " + a*i);
-    console.log(sum);
+    console.log("i = "+ i );
     i++
-} while (i <=20 );
+} while (i <= 20)
+
+
+// let i = 0;
+// let sum = i;
+// let a = 5;
+
+// do {
+//     sum = sum + i
+//     console.log(a + " x " + i + " = " + a*i);
+//     console.log(sum);
+//     i++
+// } while (i <=20 );
 
 
 // let a = +prompt("Enter a Table Number:");
